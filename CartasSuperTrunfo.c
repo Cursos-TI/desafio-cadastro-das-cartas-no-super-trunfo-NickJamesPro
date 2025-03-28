@@ -74,7 +74,7 @@ int main() {
     getchar();
     printf("\n");
 
-    // Exibição
+    // Exibição das cartas
     printf("Carta 1\n");
     printf("Cidade: %s\nEstado: %s\nCódigo: %s\n", cidade1, estado1, codigo_da_carta1);
     printf("População: %d\nÁrea: %.2f km²\nPIB: %.2f milhões\nPontos Turísticos: %d\n\n", 
