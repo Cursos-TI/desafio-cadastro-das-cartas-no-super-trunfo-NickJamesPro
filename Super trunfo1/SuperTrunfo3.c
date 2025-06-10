@@ -53,7 +53,6 @@ int main()
     printf("\n");
 
     // Cálculo do PIB per capita
-   
     printf(" PIB_per_capita1 = pib1 / populacao1;\n");
     PIB_per_capita1 = pib1 / populacao1;
     printf("PIB per capita: %.2f\n", PIB_per_capita1);
@@ -96,6 +95,7 @@ int main()
     scanf("%d", &pontos_turisticos2);
     getchar();
     printf("\n");
+    
     // Cálculo da densidade populacional
     printf("densidade_populacional2 = populacao2 / area2;\n");
     Densidade_populacional2 = populacao2 / area2;
