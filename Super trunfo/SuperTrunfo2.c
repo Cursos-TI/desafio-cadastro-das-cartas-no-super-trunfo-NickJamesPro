@@ -109,7 +109,7 @@ int main()
     printf("\n");
 
     // Carta 2
-    printf("Carta2\nCidade: %s\nEstado: %s\nCodigo da carta: %s\nPopulação: %d\nÁrea: %.2f(km²)\nPIB: %.2f(em milhões)\nPontos turísticos: %d\nDensidade populacional: %f\nPIB per capita: %.2f\n",
+    printf("Carta2\nCidade: %s\nEstado: %s\nCodigo da carta: %s\nPopulação: %d\nÁrea: %.2f(km²)\nPIB: %.2f(milhões)\nPontos turísticos: %d\nDensidade populacional: %f\nPIB per capita: %.2f\n",
         cidade2, estado2, codigo_da_carta2, populacao2, area2, pib2, pontos_turisticos2, Densidade_populacional2, PIB_per_capita2);
     printf("\n");
 
